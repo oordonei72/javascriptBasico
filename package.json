@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "muestra un mensaje en pantalla",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oordonei72/javascriptBasico.git"
+  },
+  "author": "OscarOrdoñezI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oordonei72/javascriptBasico/issues"
+  },
+  "homepage": "https://github.com/oordonei72/javascriptBasico#readme"
+}
